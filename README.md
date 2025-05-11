@@ -10,10 +10,7 @@ This project focuses on the automatic detection of Personal Protective Equipment
 - [📊 Evaluation](#-evaluation)
 - [🖥️ Web Demo (Streamlit)](#️-web-demo-streamlit)
 - [📂 Repository Structure](#-repository-structure)
-- [🛠️ Requirements](#️-requirements)
-- [🚀 Getting Started](#-getting-started)
-- [📸 Sample Results](#-sample-results)
-- [📄 License](#-license)
+
 
 ---
 
@@ -83,7 +80,9 @@ streamlit run app.py
 
     Uses the latest best2.pt model stored in model/
 
-📂 Repository Structure
+---
+
+## 📂 Repository Structure
 
 ├── app.py                # Streamlit app
 ├── data/                 # Original + fine-tuned datasets
@@ -110,19 +109,8 @@ streamlit run app.py
     matplotlib, seaborn
 
 
-O
-🚀 Getting Started
 
-    Clone this repository:
-
-git clone https://github.com/yourusername/ppe-detection.git
-cd ppe-detection
-
-Run the Streamlit app:
-
-    streamlit run app.py
-
-
+---
 
 
 This project is licensed under the MIT License.
