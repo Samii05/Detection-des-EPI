@@ -8,8 +8,7 @@ This project focuses on the automatic detection of Personal Protective Equipment
 - [🧠 Model Training](#-model-training)
 - [🔁 Fine-Tuning Process](#-fine-tuning-process)
 - [📊 Evaluation](#-evaluation)
-- [🖥️ Web Demo (Streamlit)](#️-web-demo-streamlit)
-- [📂 Repository Structure](#-repository-structure)
+- [🖥️ Web Demo & Repository structure](#️-web-demo-streamlit)
 
 
 ---
@@ -69,7 +68,8 @@ The model was tested on a set of **86 images** with **387 total instances**. Res
 
 ---
 
-## 🖥️ Web Demo (Streamlit)
+## 🖥️ Web Demo & Repository Structure (Streamlit)
+
 
 A lightweight web app is included to test detection in real time.
 
